@@ -1,0 +1,183 @@
+body{
+    background-color:hsl(300, 24%, 96%) ;
+}
+.our{
+   color: hsl(300, 43%, 22%);
+   font-size: 30px;
+   margin-left: 200px;
+   font-family: "League Spartan", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+position: absolute;
+top: 10px;
+
+}
+.user{
+    color: hsl(300, 43%, 22%);
+    font-size: 30px;
+    margin-left: 200px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+top: 55px;
+  
+;
+}
+.products{
+    color: hsl(300, 43%, 22%);
+    font-size: 30px;
+    margin-left: 200px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    top: 100px;
+
+
+}
+.provide{
+    color: hsl(303, 10%, 53%);
+    margin-left:200px;
+    margin-top: 00px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+
+    
+}
+.custumer{
+    color: hsl(303, 10%, 53%);
+    margin-left: 200px;
+    margin-top: 00px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    
+
+}
+.services{
+    color: hsl(303, 10%, 53%);
+    margin-left: 200px;
+    margin-top: 00px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    
+
+}
+
+.colotdiv{
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: hsl(300, 43%, 22%);
+    width: 400px;
+    height: 300px;
+}
+
+.colot2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+
+}
+
+
+.colotdiv {
+    border-radius: 10px;
+}
+
+
+
+.imgh{
+    border-radius: 50%;
+  
+
+}
+.buyerr{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+
+
+}
+.div1{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+
+}
+
+
+
+.irenediv{
+    margin-left: 650px;
+    margin-top: -270px;
+    background-color: hsl(300, 43%, 22%);
+    width: 400px;
+    height: 300px;
+
+}
+.img2{
+    
+}
+.irene2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+
+}
+.buyer2{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+
+}
+.custumer2{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+
+}
+.annediv{
+    margin-left: 1100px;
+    margin-top: -270px;
+    background-color: hsl(300, 43%, 22%);
+    width: 400px;
+    height: 300px;
+}
+.anne2{
+    margin-left: 100px;
+    margin-top: -70px;
+    color: white;
+
+}
+.buyer3{
+    margin-left: 100px;
+    margin-top: -10px;
+    color: hsl(333, 80%, 67%);
+}
+
+.orders{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
+.sawyisi{
+    margin-top: 100px;
+    padding: 0px;
+  
+    
+}
